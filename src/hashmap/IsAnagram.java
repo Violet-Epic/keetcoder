@@ -1,4 +1,5 @@
 package hashmap;
+import java.lang.String;
 
 /*return Counter(s) == Counter(t)*/
 public class IsAnagram {
